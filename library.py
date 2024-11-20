@@ -45,15 +45,15 @@ class Library:
 
 
 def main():
-    # Create a library
+    
     my_library = Library("Community Library")
 
-    # Add some books
+
     my_library.add_book(Book("The Great Gatsby", "F. Scott Fitzgerald"))
     my_library.add_book(Book("1984", "George Orwell"))
     my_library.add_book(Book("To Kill a Mockingbird", "Harper Lee"))
 
-    # Menu-driven system
+    
     while True:
         print("\nLibrary Menu:")
         print("1. Show Books")
