@@ -1,4 +1,4 @@
-A simple Python-based Library Management System that allows users to manage books in a library, including adding books, borrowing them, and returning them. This project uses Tkinter for the graphical user interface (GUI) and object-oriented programming (OOP) principles to manage books and their statuses.
+A simple Python-based Library Management System that allows users to manage books in a library, including adding books, borrowing them, and returning them. This project uses  object-oriented programming (OOP) principles to manage books and their statuses.
 
 Features
 Add Books: Add new books to the library's collection.
