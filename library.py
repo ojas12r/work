@@ -49,7 +49,7 @@ def main():
     my_library = Library("Community Library")
 
 
-    my_library.add_book(Book("The Great Gatsby", "F. Scott Fitzgerald"))
+    my_library.add_book(Book("The legendary mechanic", "chocolion"))
     my_library.add_book(Book("1984", "George Orwell"))
     my_library.add_book(Book("To Kill a Mockingbird", "Harper Lee"))
 
